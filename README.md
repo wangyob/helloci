@@ -1,4 +1,4 @@
-hello ci test
+hello ci test for jenkins
 =======
 
 Test projects for Git training
